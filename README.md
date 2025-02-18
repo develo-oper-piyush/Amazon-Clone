@@ -13,7 +13,7 @@ This Amazon Clone is a fully responsive e-commerce web page built using only HTM
 - CSS (Pure, without any framework)
 
 ## Live Demo
-[View Project](URL_HERE)
+[View Project](https://develo-oper-piyush.github.io/Amazon-Clone/)
 
 ## How to Use
 1. Clone the repository:
