@@ -18,7 +18,7 @@ This Amazon Clone is a fully responsive e-commerce web page built using only HTM
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/develo-oper-piyush/Amazon-Clone
    ```
 2. Open the `index.html` file in a web browser.
 
